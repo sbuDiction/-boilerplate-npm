@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Sibusiso Nkosi"
+	"author": "Sibusiso Nkosi",
+	"description": "A project for completing the api and microservices certificate"
 }
