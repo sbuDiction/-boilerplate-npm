@@ -12,5 +12,11 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Sibusiso Nkosi",
-	"description": "A project for completing the api and microservices certificate"
+	"description": "A project for completing the api and microservices certificate",
+	"keywords": [
+		"freecodecamp",
+		"api",
+		"microservice",
+		"node-js"
+	]
 }
